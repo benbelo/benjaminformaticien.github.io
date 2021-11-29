@@ -1,6 +1,6 @@
 # Your name and what you do
 name: Benjamin BELOT
-bio: Admin sys&net
+bio: 1998, unix enthusiast, net&sysadmin
 
 description: Bienvenue sur mon site
 
@@ -15,10 +15,12 @@ social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#twitter: mytwitter
+linkedin: benjaminformaticien
+reddit: Benjaminateur
+github: benjaminformaticien
+email: benjaminformaticien@gmail.com
+
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -27,7 +29,6 @@ email: myemail@gmail.com
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-# reddit: username
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
@@ -38,7 +39,7 @@ email: myemail@gmail.com
 width: normal
 
 # do you want to display an about section? true or false
-about: true
+about: false
 
 # do you want to display a skills section? true or false
 skills: true
