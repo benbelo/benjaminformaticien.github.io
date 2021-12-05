@@ -1,25 +1,22 @@
 # Your name and what you do
-name: Benjamin BELOT
-bio: 1998, unix enthusiast, net&sysadmin
-
-description: Bienvenue sur mon site
+name: Bonjour Océane
 
 # Profile picture TO CHANGE
-picture: assets/images/profile.jpg
+#picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
 url: https://benjaminformaticien.info
 
 # do you want to display social media links? true or false
-social-media: true
+social-media: false
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
 #twitter: mytwitter
-linkedin: benjaminformaticien
-reddit: Benjaminateur
-github: benjaminformaticien
-email: benjaminformaticien@gmail.com
+#linkedin: benjaminformaticien
+#reddit: Benjaminateur
+#github: benjaminformaticien
+#email: benjaminformaticien@gmail.com
 
 # google: mygoogle
 # instagram: myinstagram
@@ -46,11 +43,7 @@ skills: true
 
 # add your skills here
 skills-list: 
-    - Linux
-    - Network (vpn, fw, subnetting/routing)
-    - Cloud (GCP, AWS)
-    - Automation (Git, Ansible, Gitlab)
-    - Virtu/Containerization (ESXi, Xen, Docker, Kubernetes)
+Tu es prête à monter à 175 mètres de hauteur ?
 
 # do you want to display a projects section? true or false
 projects: false
