@@ -43,8 +43,13 @@ skills: true
 
 # add your skills here
 skills-list: 
-Tu as été sélectionnée pour participer à une épreuve de dégustation.
-es prête à monter à 175 mètres de hauteur ?
+Vous avez été sélectionnée pour participer à une épreuve de dégustation.
+Rendez-vous Avenue Gustave Eiffel, le 30 janvier 2022.
+
+Une tenue correcte est éxigée.
+
+Un chauffeur vous déposera au lieu de rendez-vous.
+Un de nos gardes du corps veillera à la sécurité de Jibao pendant l'épreuve.
 
 # do you want to display a projects section? true or false
 projects: false
