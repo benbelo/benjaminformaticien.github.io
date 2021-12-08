@@ -39,10 +39,11 @@ width: normal
 about: false
 
 # do you want to display a skills section? true or false
-skills: true
+skills: false
 
 # add your skills here
-skills-list: 
+skills-list:
+
 Vous avez été sélectionnée pour participer à une épreuve de dégustation.
 Rendez-vous Avenue Gustave Eiffel, le 30 janvier 2022.
 
