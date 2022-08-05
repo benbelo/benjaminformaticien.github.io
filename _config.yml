@@ -46,11 +46,11 @@ skills: true
 
 # add your skills here
 skills-list: 
-    - Linux
-    - Network (vpn, fw, subnetting/routing)
-    - Cloud (GCP, AWS)
-    - Automation (Git, Ansible, Gitlab)
-    - Virtu/Containerization (ESXi, Xen, Docker, Kubernetes)
+    - Linux : Debian, Redhat, CentOS, FreeBSD, NetBSD
+    - Networking : Fw (Iptables, Ufw, Palo Alto), VPN (OpenVPN, Wireguard), Routing (Cisco, Linux, BGP, OSPF)
+    - Cloud : Google Cloud Platform, Google Workspace, Azure AD, AWS (EC2, S3, VPC, ROUTE53)
+    - Automation : Git, Ansible, Rudder, Bash scripting
+    - Virtu/Containerization : ESXi, Xen, Proxmox, LXC, Docker
 
 # do you want to display a projects section? true or false
 projects: false
