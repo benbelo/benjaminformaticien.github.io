@@ -53,14 +53,13 @@ skills-list:
     - Virtu/Containerization | ESXi, Xen, Proxmox, LXC, Docker
 
 # do you want to display a projects section? true or false
-projects: false
+projects: true
 
 # add your projects here
 project-list:
     Eve:
         name: Test
         description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
-        url: https://github.com/jibolash/Eve
     World-Cup-History:
         name: Test2
         description: npm package for FIFA World cup historical data
