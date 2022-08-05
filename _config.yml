@@ -15,7 +15,7 @@ social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-#twitter: mytwitter
+twitter: fail2ben
 linkedin: benjaminbelot
 reddit: Benjaminateur
 github: benbelo
@@ -55,7 +55,7 @@ skills-list:
 # do you want to display a projects section? true or false
 projects: false
 
-# add your projects here
+# add your projects here, this is not used
 project-list:
     Linux:
         name: Linux
@@ -63,16 +63,6 @@ project-list:
     Networking:
         name: Networking
         description: Fw (Iptables, Ufw, Palo Alto), VPN (OpenVPN, Wireguard), Routing (Cisco, Linux, BGP, OSPF)
-    Cloud:
-        name: Cloud
-        description: Google Cloud Platform, Google Workspace, Azure AD, AWS (EC2, S3, VPC, ROUTE53)
-    Automation:
-        name: Automation
-        description: Git, Ansible, Rudder, Bash scripting
-    Virtualization-Conainerization:
-        name: Virtualization-Conainerization
-        description: ESXi, Xen, Proxmox, LXC, Docker
-
 
 # do you want to display the theme attribution? true or false
 footer: true
